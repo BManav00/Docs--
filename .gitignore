@@ -1,0 +1,6 @@
+.github/
+.specstory/
+build/
+bin/
+ss_data/
+nm_state.json
