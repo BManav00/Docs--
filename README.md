@@ -1,7 +1,5 @@
 # DOCS+
 
-# TEAM PROJECT MEMBERS : MANAV BERIWAL , NAMAN AGGARWAL
-
 ## 1️⃣ Project Overview
 
 **Docs++** is a distributed, multi-user document editing system built from scratch in C. It provides **sentence-level collaborative editing** with concurrent writes, access control, undo/redo via checkpoints, and transparent replication across multiple storage servers.
